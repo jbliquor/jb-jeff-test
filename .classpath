@@ -8,11 +8,6 @@
 	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
 	<classpathentry kind="con" path="MULE_RUNTIME"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="var" path="M2_REPO/net/sf/jt400/jt400/6.6/jt400-6.6.jar">
-		<attributes>
-			<attribute name="org.mule.tooling.scope" value="test"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="/jblc_domain"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
