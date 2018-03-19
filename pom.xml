@@ -166,7 +166,7 @@
             <groupId>com.jblc</groupId>
             <artifactId>jblc_domain</artifactId>
             <version>1.0.0-SNAPSHOT</version>
-            <scope>test</scope>
+            <scope>provided</scope>
             <type>zip</type>
         </dependency>
     </dependencies>
